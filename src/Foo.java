@@ -8,3 +8,4 @@ public class Foo {
 =======
 //Change 5
 >>>>>>> refs/heads/master
+fsds
