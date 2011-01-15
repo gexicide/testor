@@ -9,3 +9,5 @@ public class Foo {
 //Change 5
 >>>>>>> refs/heads/master
 fsdssdsdf sdfsdfadfsd
+
+usntagsdfklj
