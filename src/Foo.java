@@ -8,4 +8,4 @@ public class Foo {
 =======
 //Change 5
 >>>>>>> refs/heads/master
-fsdssdf sdf
+fsdssdsdf sdfsdfadfsd
